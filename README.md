@@ -15,7 +15,7 @@ It follows **MVVM architecture** with Repository, ViewModel, and LiveData.
 - Supports device rotation (ViewModel survives config changes)
 
 ## Screenshots
-<img width="1080" height="2400" alt="Screenshot_20250916_110321" src="https://github.com/user-attachments/assets/1758e53e-e009-4e3c-9e66-562fd3b5431e" />
+<img width="270" height="800" alt="Screenshot_20250916_110321" src="https://github.com/user-attachments/assets/1758e53e-e009-4e3c-9e66-562fd3b5431e" />
 
 
 ## Video Walkthrough
