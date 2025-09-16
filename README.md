@@ -19,7 +19,7 @@ It follows **MVVM architecture** with Repository, ViewModel, and LiveData.
 
 
 ## Video Walkthrough
-👉 [Watch the walkthrough video here](https://youtu.be/X1RHw5R_4Mo)
+👉 [Watch the walkthrough video here](https://youtu.be/SfqpIscc7JM)
 
 ## Project Structure
 - `data/` → Model, API, Repository
